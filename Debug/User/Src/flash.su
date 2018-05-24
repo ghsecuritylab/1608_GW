@@ -1,0 +1,11 @@
+flash.c:17:6:FLASH_Unlock	0	static
+flash.c:31:6:FLASH_Lock	0	static
+flash.c:42:14:FLASH_GetStatus	0	static
+flash.c:91:14:flash_wait_op	16	static
+flash.c:115:6:FLASH_DataCacheCmd	0	static
+flash.c:162:14:FLASH_EraseSector	16	static
+flash.c:222:14:FLASH_ProgramWord	16	static
+flash.c:250:10:flash_read_word	0	static
+flash.c:255:10:flash_get_sector	0	static
+flash.c:282:6:flash_write	16	static
+flash.c:313:6:flash_read	0	static

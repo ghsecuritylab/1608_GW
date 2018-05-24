@@ -1,0 +1,6 @@
+eth_app.c:287:6:task_server_socket	40	static
+eth_app.c:26:6:msg_send	16	static
+eth_app.c:168:6:vtcp_client	56	static
+eth_app.c:39:6:User_notification	0	static
+eth_app.c:53:6:DHCP_thread	56	static
+eth_app.c:376:6:server_recv_data	72	static

@@ -1,0 +1,3 @@
+core_cm4.h:1615:26:NVIC_GetPriorityGrouping	0	static
+core_cm4.h:1745:26:NVIC_EncodePriority.constprop	0	static
+dma.c:67:6:MX_DMA_Init	16	static

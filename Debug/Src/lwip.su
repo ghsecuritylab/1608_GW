@@ -1,0 +1,2 @@
+lwip.c:77:6:MX_LWIP_Init	80	static
+lwip.c:118:6:ethernetif_notify_conn_changed	8	static
